@@ -1,8 +1,3 @@
-import utils.LearningClass;
-import utils.ScientificTitle;
-import utils.Student;
-import utils.Teacher;
-
 /*
 * Two students are the same, when they grades' sum is the same number.
 * */
